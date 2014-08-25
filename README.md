@@ -1,4 +1,4 @@
 paste
 =====
 
-Baseline files for nee projects.
+Baseline files for new projects.
